@@ -55,10 +55,10 @@ case $SELECTED_THEME in
 *)
   # Default to night theme
   declare -A THEME=(
-    ["background"]="#1A1B26"
+    ["background"]="#1E2030"
     ["foreground"]="#a9b1d6"
     ["black"]="#414868"
-    ["blue"]="#7aa2f7"
+    ["blue"]="#253059"
     ["cyan"]="#7dcfff"
     ["green"]="#73daca"
     ["magenta"]="#bb9af7"
@@ -66,7 +66,7 @@ case $SELECTED_THEME in
     ["white"]="#c0caf5"
     ["yellow"]="#e0af68"
 
-    ["bblack"]="#2A2F41"
+    ["bblack"]="#292f47"
     ["bblue"]="#7aa2f7"
     ["bcyan"]="#7dcfff"
     ["bgreen"]="#41a6b5"
